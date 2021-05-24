@@ -1,0 +1,5 @@
+<meta>
+    <script src="RTPool.lua" type="client"/>
+    <script src="vhs.lua" type="client"/>
+    <file src="vhs.fx"/>
+</meta>
